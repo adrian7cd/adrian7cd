@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am [adrian7cd], a passionate Full Stack Developer with expertise in Angular, React, Django, TypeScript, and Golang. This repository serves as my portfolio, showcasing my projects, skills, and interests in the software development field. Besides programming, I also have a keen interest in mixed martial arts, motorcycling, and traveling, particularly in the Asian region. Additionally, I am actively studying for the CCNA certification to delve deeper into networking and cybersecurity.
+Hello! I am adrian7cd, a passionate Full Stack Developer with expertise in Angular, React, Django, TypeScript, and Golang. This repository serves as my portfolio, showcasing my projects, skills, and interests in the software development field. Besides programming, I also have a keen interest in mixed martial arts, motorcycling, and traveling, particularly in the Asian region. Additionally, I am actively studying for the CCNA certification to delve deeper into networking and cybersecurity.
 
 ## About Me
 
@@ -21,16 +21,16 @@ I am an enthusiastic learner and problem solver, constantly seeking new challeng
 Here are some of the notable projects I have worked on:
 
 1. **Project 1**
-   - *Description*: Briefly describe the project, its purpose, and the technologies used.
-   - [GitHub Repository](https://github.com/your_username/project1)
+   - *Description*
+   - [GitHub Repository]
 
 2. **Project 2**
-   - *Description*: Briefly describe the project, its purpose, and the technologies used.
-   - [GitHub Repository](https://github.com/your_username/project2)
+   - *Description*
+   - [GitHub Repository]
 
 3. **Project 3**
-   - *Description*: Briefly describe the project, its purpose, and the technologies used.
-   - [GitHub Repository](https://github.com/your_username/project3)
+   - *Description*
+   - [GitHub Repository]
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
@@ -50,7 +50,9 @@ When I'm not immersed in coding, I have a diverse set of hobbies and interests:
 
 If you're interested in collaborating on projects, discussing coding, or just want to connect, feel free to reach out to me via:
 
-Email
+[Email]
+[Twitter]
+[Discord]
 
 Let's connect and create something amazing together!
 
